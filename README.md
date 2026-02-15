@@ -3,6 +3,7 @@
 A lightweight, standalone note-taking system built specifically for ox_inventory. This script allows players to turn blank paper into persistent, readable notes using inventory metadata.
 
 
+
 ## Features
 
 - **Metadata Powered**: Notes store their text directly in the item metadata, meaning they can be traded, dropped, or stolen while keeping their message.
@@ -39,3 +40,11 @@ A lightweight, standalone note-taking system built specifically for ox_inventory
 [ox_inventory](https://github.com/CommunityOx/ox_inventory)
 
 [ox_lib](https://github.com/CommunityOx/ox_lib)
+
+
+### Images
+
+![Screenshot of the blank paper item](wz-notes-1.png)
+![](wz-notes-2.png)
+![](wz-notes-3.png)
+![](wz-notes-4.png)
