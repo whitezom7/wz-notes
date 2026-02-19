@@ -23,6 +23,7 @@ A lightweight, standalone note-taking system built specifically for ox_inventory
         weight = 10,
         stack = true,
         close = true,
+        consume = 0,
         description = 'A blank piece of paper, maybe you could write on it?',
     },
     ['note'] = {
@@ -30,6 +31,7 @@ A lightweight, standalone note-taking system built specifically for ox_inventory
         weight = 10,
         stack = false,
         close = true,
+        consume = 0,
         description = 'A note with something written on it.',
     },
 ```
