@@ -3,6 +3,7 @@
 A lightweight, standalone note-taking system built specifically for ox_inventory. This script allows players to turn blank paper into persistent, readable notes using inventory metadata.
 
 [Support Discord](https://discord.gg/9kpwSjrk9R)
+
 [Paid Scripts Store](https://whitezoms-scripts.tebex.io/) 
 
 
