@@ -21,6 +21,14 @@ A lightweight, standalone note-taking system built specifically for ox_inventory
 2. Add the images (paper.png and note.png) to ox_inventory/web/images/.
 3. Add the following items to your ox_inventory/data/items.lua:
 
+---
+## ☕ Support My Work
+If you find this script useful and would like to support my development journey, feel free to buy me a coffee!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/whitezom)
+
+---
+
 ```lua
     ['paper'] = {
         label = 'Blank Paper',
